@@ -1,6 +1,6 @@
 # 🏛️ Big Ben 3D Visualization  
 
-![Big Ben 3D](assets/bigben.png) 
+<img src="assets/bigben.png" alt="Big Ben 3D" width="300" height="200"/>
 
 ### 🎨 An Interactive 3D Visualization of Big Ben using OpenGL & C++  
 
@@ -8,12 +8,6 @@
 
 ---
 
-## 🎥 Demo Video  
-Check out the demo of the Big Ben 3D Visualization in action:
-
-[![Big Ben Demo Video](assets/bigben.png)](assets/bigben_demo.mp4)
-
----
 
 ## 📌 Features  
 
