@@ -11,7 +11,7 @@
 ## 🎥 Demo Video  
 Check out the demo of the Big Ben 3D Visualization in action:
 
-[![Big Ben Demo Video](assets/bigben_demo.mp4)
+[![Big Ben Demo Video](assets/bigben.png)](assets/bigben_demo.mp4)
 
 ---
 
