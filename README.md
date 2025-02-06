@@ -55,8 +55,8 @@
 ## 🛠️ Setup & Installation
 
 1️⃣ Clone the Repository  
-git clone https://github.com/Shrabanti01/cg_project.git
-cd cg_project 
+- git clone https://github.com/Shrabanti01/cg_project.git
+- cd cg_project 
 
 2️⃣ Install Dependencies  
 Ensure you have GLFW, GLAD, GLM, and OpenGL installed on your system.  
