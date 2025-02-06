@@ -1,0 +1,133 @@
+﻿  main.cpp
+C:\Users\HP\source\repos\BiggBenn\sphere.h(81,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\sphere.h(82,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\sphere.h(90,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\sphere.h(300,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\sphere.h(301,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\sphere.h(303,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\sphere.h(394,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\sphere.h(395,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\sphere.h(399,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\cube.h(398,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\cube.h(656,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\cube.h(657,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\cube.h(896,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\cube.h(897,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\curve.h(161,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\curve.h(161,28): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\curve.h(164,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\curve.h(174,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\curve.h(180,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\curve.h(181,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\curve.h(304,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\curve.h(304,28): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\curve.h(307,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\curve.h(317,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\curve.h(323,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\curve.h(324,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\source\repos\BiggBenn\main.cpp(612,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(632,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(635,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(692,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(642,30): warning C4101: 'rotate': unreferenced local variable
+C:\Users\HP\source\repos\BiggBenn\main.cpp(642,77): warning C4101: 'scale': unreferenced local variable
+C:\Users\HP\source\repos\BiggBenn\main.cpp(642,38): warning C4101: 'revtranslate': unreferenced local variable
+C:\Users\HP\source\repos\BiggBenn\main.cpp(642,64): warning C4101: 'next': unreferenced local variable
+C:\Users\HP\source\repos\BiggBenn\main.cpp(642,52): warning C4101: 'alTogether': unreferenced local variable
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1035,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1035,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1035,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1039,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1039,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1039,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1062,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1063,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1064,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1077,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1078,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1079,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1108,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1109,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1110,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1115,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1116,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1117,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1122,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1123,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1124,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1129,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1130,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1131,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1136,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1138,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1146,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1147,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\BiggBenn\main.cpp(1148,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+  BiggBenn.vcxproj -> C:\Users\HP\source\repos\BiggBenn\x64\Debug\BiggBenn.exe
